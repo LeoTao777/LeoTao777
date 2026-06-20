@@ -1,7 +1,9 @@
 ## Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Talk+is+cheap%2C+show+me+your+code.)](https://git.io/typing-svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoTao777)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTao777)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LeoTao777&left_color=green&right_color=red)
 ![LeoTao777's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoTao777)
 
 <!--
