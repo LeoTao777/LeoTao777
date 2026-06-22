@@ -11,6 +11,7 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=LeoTao777&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
    </div>
+<p><b>Code is my passion, logic is my world.</b></p>
 </div>
 
 ## Hi there 👋
